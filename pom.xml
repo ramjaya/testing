@@ -3,14 +3,14 @@
   <groupId>com.demo.app</groupId>
   <artifactId>testing</artifactId>
   <packaging>war</packaging>
-  <version>0.0.3</version>
+  <version>0.0.4-SNAPSHOT</version>
   <name>testing</name>
   <url>http://maven.apache.org</url>
   <scm>
 	<connection>scm:git:git@github.com:ramjaya/testing.git</connection>
 	<url>scm:git:git@github.com:ramjaya/testing.git</url>
 	<developerConnection>scm:git:git@github.com:ramjaya/testing.git</developerConnection>
-	<tag>testing-0.0.3</tag>
+	<tag>HEAD</tag>
 </scm>
 
 <distributionManagement>
